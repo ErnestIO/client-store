@@ -4,8 +4,8 @@ It manages all ernest client storage through a public exposed Rest API
 
 ## Build status
 
-* master:  [![CircleCI](https://circleci.com/gh/ErnestIO/client-store/tree/master.svg?style=svg)](https://circleci.com/gh/ErnestIO/client-store/tree/master)
-* develop: [![CircleCI](https://circleci.com/gh/ErnestIO/client-store/tree/develop.svg?style=svg)](https://circleci.com/gh/ErnestIO/client-store/tree/develop)
+* master:  [![CircleCI](https://circleci.com/gh/ernestio/client-store/tree/master.svg?style=svg)](https://circleci.com/gh/ernestio/client-store/tree/master)
+* develop: [![CircleCI](https://circleci.com/gh/ernestio/client-store/tree/develop.svg?style=svg)](https://circleci.com/gh/ernestio/client-store/tree/develop)
 
 ## Installation
 
